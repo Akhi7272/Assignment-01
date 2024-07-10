@@ -80,10 +80,40 @@ font-size: 20px;
     max-width: 1140px;
     border-radius: 5px;
     border-color: rgba(13, 19, 33, 0.02);
-    
 }
 .th{
     color: #0D1321;
     font-size: 26;
     font-weight: bold;
+}
+.tpart{
+    text-align: center;
+    margin: 50px 150px;
+}
+.video{
+    padding: 20px;
+}
+#skill-content{
+    text-align: center;
+    padding: 50px;
+}
+.skill{
+    display: flex;
+    gap: 24px;
+}
+#htm{
+    background-color: antiquewhite;
+    border: 40px;
+    border-radius: 5px;
+}
+#cs{
+    background-color: aquamarine;
+    padding: 40px;
+    border-radius: 5px;
+}
+#jvs{
+    background-color: bisque;
+    border: 40px;
+    border-radius: 5px;
+
 }
