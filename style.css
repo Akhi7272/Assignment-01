@@ -42,4 +42,48 @@ font-size: 20px;
 
 }
 
-
+/* main style */
+.dv{
+    text-align: center;
+    margin-top: 200px;
+    padding-bottom: 50px;
+}
+.web{
+    font-size: 32px;
+    font-weight: bolder;
+    color:  #0D1321;
+}
+.flayer{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    border: 80px 97px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.slayer{
+     display: flex;
+    justify-content: space-between;
+    border: 0px 97px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 50px;
+    
+}
+.tlayer{
+    display: flex;
+    justify-content: space-between;
+    border: 80px 97px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 50px;
+}
+.spart{
+    margin: 0 auto;
+    max-width: 1140px;
+    border-radius: 5px;
+    border-color: rgba(13, 19, 33, 0.02);
+    
+}
+.th{
+    color: #0D1321;
+    font-size: 26;
+    font-weight: bold;
+}
