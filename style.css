@@ -100,6 +100,7 @@ font-size: 20px;
 .skill{
     display: flex;
     gap: 24px;
+    margin: 100px;
 }
 #htm{
     background-color: antiquewhite;
@@ -116,4 +117,17 @@ font-size: 20px;
     border: 40px;
     border-radius: 5px;
 
+}
+#tbl{
+    text-align: center;
+    max-height: 100px;
+    background-image: url(./assets/handshake.jpg);
+    margin: 150px 180px
+    
+
+}
+.sup{
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
 }
