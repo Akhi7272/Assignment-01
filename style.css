@@ -1,0 +1,45 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.azeret-mono-<normal> {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+/* shared style */
+
+/* header style */
+.head{
+    text-align: center;
+}
+.hd{
+    font-size: 48px;
+    font-weight: bolder;
+    color:  #0D1321;
+}
+.pg{
+    font-size: 16px;
+    color: #0D1321;
+}
+.btn{
+font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding: 21px 24px;
+    max-width: 300px;
+    background-color: black;
+    color: #FFFFFF;
+    border: none;
+    
+}
+.banner{
+    padding: 26px 221px 45px;
+    background-image: url(./assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 125px;
+
+}
+
+
